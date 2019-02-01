@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">AppFermi</string>
+    <string name="cancel">Cancella</string>
+    <string name="classi">Classi</string>
+    <string name="confirm">Ok</string>
+    <string name="demo_collection">Prova1</string>
+    <string name="demo_external_activity">Prova2</string>
+    <string name="docenti">Docenti</string>
+    <string name="orariMessage">Scegliere la categoria</string>
+    <string name="password">Password</string>
+    <string name="userMessage">Inserire i dati del registro elettronico</string>
+    <string name="username">Username</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

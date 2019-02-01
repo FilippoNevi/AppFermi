@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/filippo/Documenti/Workspace/AppFermi/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/filippo/Documenti/Workspace/AppFermi/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "730,813",
+                        "endLines": "17,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "808,880"
+                    }
+                },
+                {
+                    "source": "/home/filippo/Documenti/Workspace/AppFermi/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,11,12,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,4,4,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,469,520,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,50,57,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,515,573,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,215,259,301,340,391,449,493,557,603,684",
+                        "endColumns": "45,43,41,38,50,57,43,63,45,80,45",
+                        "endOffsets": "210,254,296,335,386,444,488,552,598,679,725"
+                    }
+                },
+                {
+                    "source": "/home/filippo/Documenti/Workspace/AppFermi/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

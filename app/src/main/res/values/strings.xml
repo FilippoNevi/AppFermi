@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppFermi</string>
+
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="userMessage">Inserire i dati del registro elettronico</string>
+    <string name="confirm">Ok</string>
+    <string name="cancel">Cancella</string>
+    <string name="docenti">Docenti</string>
+    <string name="classi">Classi</string>
+    <string name="orariMessage">Scegliere la categoria</string>
+    <string name="demo_collection">Prova1</string>
+    <string name="demo_external_activity">Prova2</string>
+</resources>
