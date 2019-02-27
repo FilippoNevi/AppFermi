@@ -51,16 +51,19 @@ public class NewsRssParser extends Fragment {
 			try {
 				
 				URL image;
-				URL url = new URL("http://www.fermimn.edu.it/index.php?action=rss");
+				URL url = new URL("https://www.fermimn.edu.it/index.php?action=rss");
 				HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
 				try {
 					String linea;
 					InputStream in = urlConnection.getInputStream();
-					
+
 					Document doc = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(in);
+
+					System.out.println(doc.getTextContent());
 					
 					NodeList items = doc.getElementsByTagName("item");
-					
+
+
 					int i, j;
 					String testo = null;
 			
@@ -73,7 +76,7 @@ public class NewsRssParser extends Fragment {
 						Element item = (Element) items.item(i);
 						
 						newsElement.setTitolo(item.getElementsByTagName("title").item(0).getTextContent());
-						
+
 						NodeList children = item.getChildNodes();
 						
 						for (j=0;j<children.getLength();j++){

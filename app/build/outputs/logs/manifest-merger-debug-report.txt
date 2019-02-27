@@ -1,84 +1,84 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-MERGED from [com.android.support:support-v4:21.0.3] /home/filippo/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/93248dc10d9c1a35cc77fb2dfe417b2c/AndroidManifest.xml:14:4-17:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+MERGED from [com.android.support:support-v4:21.0.3] /home/eros/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/bf6c448f9203d43239536478a8ead590/AndroidManifest.xml:14:4-17:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:1-34:12
 	package
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:4:5-38
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:6:5-30
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:3:11-69
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:3:11-69
 	android:versionCode
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:5:5-28
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:8:5-67
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:8:5-67
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:8:22-64
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:10:5-32:19
-MERGED from [com.android.support:support-v4:21.0.3] /home/filippo/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/93248dc10d9c1a35cc77fb2dfe417b2c/AndroidManifest.xml:16:5-19
-MERGED from [com.android.support:support-v4:21.0.3] /home/filippo/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/93248dc10d9c1a35cc77fb2dfe417b2c/AndroidManifest.xml:16:5-19
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support:support-v4:21.0.3] /home/eros/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/bf6c448f9203d43239536478a8ead590/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] /home/eros/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/bf6c448f9203d43239536478a8ead590/AndroidManifest.xml:16:5-19
 	android:label
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:10:18-50
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:10:18-50
 	android:icon
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:11:9-45
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:11:9-45
 	android:theme
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:12:9-56
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:12:9-56
 activity#it.gov.fermimn.appfermi.MainActivity
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:14:9-19:20
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:14:9-19:20
 	android:label
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:14:71-103
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:14:71-103
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:14:19-70
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:14:19-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:17:27-74
 activity#it.gov.fermimn.appfermi.NewsDetailActivity
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:21:9-29:20
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:21:9-29:20
 	android:parentActivityName
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:23:13-78
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:23:13-78
 	android:label
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:22:13-45
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:21:19-76
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:21:19-76
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:25:10-27:68
+ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:25:10-27:68
 	android:value
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:27:14-65
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:27:14-65
 	android:name
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml:26:14-60
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml:26:14-60
 uses-sdk
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:21.0.3] /home/filippo/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/93248dc10d9c1a35cc77fb2dfe417b2c/AndroidManifest.xml:15:5-42
-MERGED from [com.android.support:support-v4:21.0.3] /home/filippo/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/93248dc10d9c1a35cc77fb2dfe417b2c/AndroidManifest.xml:15:5-42
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:21.0.3] /home/eros/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/bf6c448f9203d43239536478a8ead590/AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] /home/eros/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/bf6c448f9203d43239536478a8ead590/AndroidManifest.xml:15:5-42
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		ADDED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
-		INJECTED from /home/filippo/Documenti/Workspace/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		ADDED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eros/Desktop/AppFermi/app/src/main/AndroidManifest.xml

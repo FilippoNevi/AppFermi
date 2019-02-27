@@ -1,4 +1,1 @@
-#Fri Feb 01 14:06:35 CET 2019
-base.0=/home/filippo/Documenti/Workspace/AppFermi/app/build/intermediates/transforms/dexMerger/debug/7
-path.0=classes.dex
-renamed.0=classes.dex
+#Wed Feb 27 17:59:29 CET 2019
